@@ -1,4 +1,5 @@
 *.html
+TickerConfig.py
 *.pyc
 *.yaml
 *.log
